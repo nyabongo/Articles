@@ -1,0 +1,18 @@
+# The software developer god complex
+
+Even without elaboration, from just the title, some of you already know what I am talking about. Work with and around software engineers long enough and you are almost certain to come across what I call the engineering god complex. For those who are lucky enough not to have come across it, it might appear as arrogance, a tendency to assume expertise where there is little or none.
+I would like to think most engineers got humbled the first time they blamed a compiler or computer for being wrong and only later found out it was them who made the mistake. This is something that has happened to just about everyone who has ever tried to learn how to code. Despite this, there's a lot about software engineering that lends itself to a god complex.
+
+## But why?
+
+First, there are few professions where with only weeks worth of learning you can build something of significant value. Technically,  with a few weeks of code boot camp you could build a [million dollar](http://www.milliondollarhomepage.com/) [website](https://en.wikipedia.org/wiki/The_Million_Dollar_Homepage). What's more likely to happen though is someone will pay you a decent amount of money to build what they think will be a million dollar website or app. So with a few weeks or at most months worth of training and you might be out earning some doctors that have spent years in training. It's hard not to get full of yourself.
+
+According to Andela's 2022 Africa developer report up to 77% of software engineers and developers consider themselves self taught. In my own experience, one of the best developers I’ve ever hired doesn't have a degree in software engineering (or related field) but that hasn’t stopped him from being an amazing developer. Thing is, even those with degrees in software engineering and computer science often think of themselves as self taught. When the credit for your success is  largely yourself, there is a tendency to think a lot more highly of yourself than you would otherwise.
+
+Pay scales for software developers are greatly skewed. Just because I am a software engineer in Uganda doesn't mean I'm getting paid or I'm actually working in Uganda. Few professions have adopted remote work as well as Software engineering and development. I might be in a low cost of living country or city but the source of my income might be from a market across the world  where competition for engineers is very high. And money isn’t exactly known for breeding humility.
+
+Most other industries when compared to software development are really old. This means they also have really old principles about the right way to do things. These principles are often immovable. New practitioners find them there and leave them there. The principles of software engineering are much more recent. This means there is less an engineer can be judged by. Because even the principles that have been established are still up for debate(or treated as though they are). This means it is much easier to look like an expert or think you're an expert.
+
+## So what can we do about it?
+
+I have some ideas about how to identify and manage it, and I've heard some good ones from people around me in the past, so instead of just writing mine, send me your suggestions on how to identify and deal with it and I will include it future newsletters. First one on how to identify it and next how to manage it. Drop your feedback in the comments or send me a message, my inbox is open.
