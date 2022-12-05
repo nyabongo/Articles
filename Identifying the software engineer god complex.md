@@ -1,6 +1,6 @@
 # Identifying the software engineer god complex
 
-Last time I wrote about the software engineer god complex. This time I want to talk about how to identify it. This will mostly be a discussion of symptoms. But like most discussions of symptoms, there is potential for abuse. So do not be too quick to diagnose and label someone as having the software engineer god complex. It is possible to have some of the symptoms without having the software engineer god complex. It is also possible to have the software engineer god complex without having all the symptoms. Also it is a matter of degree. Some people have a mild case of the software engineer god complex while others have a severe case. Perhaps all of us have a mild case of it. I know I do. I am not immune to it. I am not even sure I can identify it in myself. I am just trying to be aware of it and manage it.
+Last time I wrote about the software engineer god complex. This time I want to talk about how to identify it. This will mostly be a discussion of symptoms. But like most discussions of symptoms, there is potential for abuse. So do not be too quick to diagnose and label someone as having the software engineer god complex. It is possible to have some of the symptoms without having the software engineer god complex. It is also possible to have the software engineer god complex without having all the symptoms. Also it is a matter of degree. Some people have a mild case of the software engineer god complex while others have a severe case. And sometimes people just have a bad day. So take it easy on the labelling. #SoftwareEngineering #EngineeringManagement #ProductManagement
 
 I've got some interesting feedback about the last article and had some interesting discussions about it. It is actually remarkable how similar some of the stories I've been told are. At some point I couldn't help but think I was hearing about the same person in different organisations. Anyway, here are some of the symptoms and signs of the software engineer god complex.
 
@@ -37,5 +37,7 @@ People with a god complex might be quick to dismiss the competence of others oft
 Here are some other symptoms I've seen or been told about that I find are worth mentioning;
 
     1. Poor Listening Skills
-    2. They practise divide and rule: They'll often isolate people who challenge them or disagree with them. Often this is done by restructuring such that they are in fewer meetings together
+    2. They practice divide and rule: They'll often isolate people who challenge them or disagree with them. Often this is done by restructuring such that they are in fewer meetings together
     3. For some reason they often seem to have a poor relationship with the product team.
+
+What do you think? What are some of the symptoms you've seen or experienced? Please share in the comments or DM. I'd love to hear from you.  Next time I'll try talk about how to deal with the software engineer god complex. If you have ideas for that, please share them too.
